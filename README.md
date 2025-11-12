@@ -55,6 +55,14 @@ This project serves as a **premium showcase** for developers exploring advanced 
 
 ## 📸 Screenshots
 
+<div align="center">
+  
+  ![Setup In Androd Studio](screenshots/ispeed.png)
+    
+</div>
+
+---
+
 <div align="left">
   <table>
     <tr>
@@ -76,6 +84,11 @@ Watch the **Internet Speed Test App** in action:
 </div>
 
 
+---
+## 🎥 OR
+
+Watch the **App** in action on **X :**
+👉 [Watch the Demo Here](https://x.com/KishanP07684084/status/1946605582905151705?s=20)
 
 ---
 
